@@ -1,0 +1,16 @@
+{
+  "name": "a2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "a2p2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.13.0"
+  }
+}
